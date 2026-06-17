@@ -1,5 +1,6 @@
 {
   "version": "1.0.1",
-  "notes": "✨ Thông tin cập nhật v1.0.1:\n- Fix một số lỗi giúp tool mượt hơn",
+  "notes": "✨ Thông tin cập nhật v1.0.1:\n- Cập nhật toàn bộ môi trường (full standalone)\n- Fix lỗi thiếu môi trường khi update\n- Tool hoạt động ổn định hơn",
+  "archive_url": "https://github.com/hunggagu11/update-tool-report-fb/releases/latest/download/Tool_Report_FB_v1.0.1.zip",
   "exe_url": "https://github.com/hunggagu11/update-tool-report-fb/releases/latest/download/tool_update.exe"
 }
